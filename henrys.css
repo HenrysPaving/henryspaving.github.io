@@ -1,0 +1,61 @@
+.text {
+	font-family: verdana, geneva, "lucinda grande", arial;
+	font-size: 10px;
+	font-weight: normal;
+	color: #95805A;
+	line-height: 16px;
+}
+.title {
+	font-family: verdana, geneva, "lucinda grande", arial;
+	font-size: 16px;
+	color: #95805A;
+}
+a:link {
+	font-family: verdana, geneva, "lucinda grande", arial;
+	font-size: 10px;
+	font-weight: normal;
+	color: #694D2C;
+	text-decoration: none;
+}
+a:hover {
+	font-family: verdana, geneva, "lucinda grande", arial;
+	font-size: 10px;
+	font-weight: normal;
+	color: #694D2C;
+	text-decoration: underline;
+}
+a:active {
+	font-family: verdana, geneva, "lucinda grande", arial;
+	font-size: 10px;
+	font-weight: normal;
+	color: #694D2C;
+	text-decoration: underline;
+}
+a:visited {
+	font-family: verdana, geneva, "lucinda grande", arial;
+	font-size: 10px;
+	font-weight: normal;
+	color: #34230E;
+	text-decoration: none;
+}
+.subtitle {
+	font-family: verdana, geneva, "lucinda grande", arial;
+	font-size: 12px;
+	line-height: 16px;
+	font-weight: normal;
+	color: #95805A;
+}
+.minitext {
+	font-family: verdana, geneva, "lucinda grande", arial;
+	font-size: 10px;
+	font-weight: normal;
+	color: #B59B6D;
+}
+.bullet {
+	font-family: verdana, geneva, "lucinda grande", arial;
+	font-size: 10px;
+	line-height: 14px;
+	font-weight: normal;
+	color: #95805A;
+	list-style-type: circle;
+}
